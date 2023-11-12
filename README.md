@@ -35,3 +35,4 @@
 [три](https://kubernetes.io/docs/concepts/services-networking/network-policies/)  
 [четыре](https://habr.com/ru/companies/slurm/articles/658123/)  
 [пять](https://habr.com/ru/companies/otus/articles/457742/)  
+[шесть](https://habr.com/ru/companies/flant/articles/569840/)  
